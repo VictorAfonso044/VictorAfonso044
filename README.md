@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VictorAfonso044
+- 👀 I’m interested in Angular, Java, Golang.
+- 🌱 I’m currently learning All l can
+- 📫 How to reach me https://www.linkedin.com/in/victor-afonso-6223b418a/
